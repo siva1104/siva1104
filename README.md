@@ -10,4 +10,4 @@ I'm R Siva Kumar
 - 😄 Pronouns: He/His
 
 
-[![Sivakumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=siva1104)](https://github.com/siva1104/github-readme-stats)
+![Siva kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=siva1104&show_icons=true&theme=radical)
