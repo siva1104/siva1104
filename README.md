@@ -8,3 +8,6 @@ I'm R Siva Kumar
 - 💬 Ask me about Machine learning & Deep learning related stuff
 - 📫 How to reach me: https://www.linkedin.com/in/r-siva 
 - 😄 Pronouns: He/His
+
+
+[![Sivakumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=siva1104)](https://github.com/siva1104/github-readme-stats)
