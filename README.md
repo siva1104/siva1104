@@ -7,11 +7,7 @@ I'm R Siva Kumar
 - 🤔 I know Python
 - 📊 I have done lot of projects
 - 💬 Ask me about Machine learning & Deep learning related stuff
-- 📫 How to reach me: www.linkedin.com/in/r-siva 
 - 😄 Pronouns: He/His
-
-<h1 align="center">Hi 👋, I'm R Siva Kumar</h1>
-<h3 align="center">A Passionate Data Scientist from 'India'</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siva1104&label=Profile%20views&color=0e75b6&style=flat" alt="siva1104" /> </p>
 
@@ -19,8 +15,8 @@ I'm R Siva Kumar
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/r siva kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="r siva kumar" height="30" width="40" /></a>
-<a href="https://kaggle.com/r siva kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="r siva kumar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/r-siva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/r-siva" height="30" width="40" /></a>
+<a href="https://kaggle.com/rsiva1104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rsiva1104" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
