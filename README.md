@@ -1,25 +1,53 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+Siva Kumar</a></h1>
+<h3 align="center">A passionate Data Scientist from Bangalore India &#127470;&#127475</h3>
 
-I'm R Siva Kumar 
+<p align="center">
+<img src="https://img.shields.io/badge/Age-22-blue" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Science-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-India-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Telugu-brightgreen" />
+  <p align="center">
+  <em>
+    Hello, I am R Siva Kumar undergraduated from <a href="https://nbkrist.co.in/"> <b>NBKR Institutes of Science and Technology</b>, Nellore </a>. <br>
+    <b>A passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
+    <b> and a Data Scientist</b> always looking to find patterns of which are hidden in the data. 
+  </em> 
+       
+------    
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<b>***About me ....***</b><br>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+    
+✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
+✔ I’m currently Developing a ***chatbot***<br>
+✔ I’m currently learning about ***deep learning***🥰<br>
+✔ I’m looking to collaborate with any ***Open - Source data science projects***<br>
+✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
+✔ Fun fact : ***I Always try to learn something new and then sleep till it store in the brain*** 😎<br>
+    
+---------    
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<b>***Github Stats***</b><br>
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siva1104&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark"         alt="ovi" /></p>
+   <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=siva1104&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410"    /></p>
+<br><br><br><br><br><br>
+  
+------  
 
-- 🔭 I’m currently working on Data Science
-- 🌱 I’m currently learning Computer Vision & Time series
-- 🤔 I know Python
-- 📊 I have done lot of projects
-- 💬 Ask me about Machine learning & Deep learning related stuff
-- 😄 Pronouns: He/His
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<b>***Github profile Trophies***<br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siva1104" alt="siva1104" /></a> </p>
+<img src="https://github-profile-trophy.vercel.app/?username=siva1104&theme=juicyfresh&no-bg=true" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/r-siva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="r-siva" height="30" width="40" /></a>
-<a href="https://kaggle.com/rsiva1104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rsiva1104" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siva1104&show_icons=true&locale=en&layout=compact" alt="siva1104" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siva1104&show_icons=true&locale=en" alt="siva1104" /></p>
+-------
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> ***Connect with me***
+<div align="center">
+<a href="https://github.com/siva1104"><img src="https://img.shields.io/badge/-rsivakumar-black?logo=github&style=flat-square"/></a> 
+<a href="https://www.linkedin.com/in/r-siva/"><img src="https://img.shields.io/badge/-rsivakumar-blue?logo=linkedin&style=flat-square"></a>
+<a href="mailto:rsivakumar1104@gmail.com"><img src="https://img.shields.io/badge/-rsivakumar1104@gmail.com-black?logo=gmail&style=flat-square"/></a>
+<a href="https://www.kaggle.com/rsiva1104" target="_blank">
+<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" /> 
+  
+------ 
+  
+Credits: [siva1104](https://github.com/siva1104)
+ 
